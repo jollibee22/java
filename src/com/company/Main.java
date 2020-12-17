@@ -3,10 +3,10 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	System.out.println("Hello world!");
-	System.out.println("Hello world!");
-	System.out.println("Hello world!");
-	System.out.println("Hello ALCHERA");
+	System.out.println("\\    /\\");
+	System.out.println(" )  ( ')");
+	System.out.println("(  /  )");
+	System.out.println(" \\(__)|");
 
     }
 }
