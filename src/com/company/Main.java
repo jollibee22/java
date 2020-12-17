@@ -10,7 +10,7 @@ public class Main {
     	num1 = sc.nextInt();
     	num2 = sc.nextInt();
     	result = (double)num1/num2;
-    	System.out.println(Sresult);
+    	System.out.println(result);
 
 	}
 }
