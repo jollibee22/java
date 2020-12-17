@@ -1,1 +1,37 @@
 그냥 소소하게 자바를 기억하기위해서 하는 거~~
+ - **두껍게** *기울이기* ***두껍게기울이기***
+ - ~삭제~
+# 1
+## 2
+### 3
+#### 4
+##### 5
+`회색박스`
+@sugang-alchera
+[**링크**](http://naver.com/)
+- [x] 체크박스
+- [x] 체크됨
+> 인용
+>두번째줄
+>> This is a second blockqute.
+>>> This is a third blockqute.
+> ### This is a H3
+>* List
+>```
+>code
+>```
+```c#
+wget https://github.com/opencv/opencv/releases/download/3.4.0/opencv-3.4.0-ios-framework.zip
+```
+|  오른쪽  |  가운데  |     왼쪽     |
+|-:|:-:|:-|
+|a|a|a
+|||
+|||
+   1. 숫자로 목차쓰면
+   2. 회색박스가 생긴다.
+
+****
+* * *
+![석촌호수 러버덕](http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0)
+<img width="200" src="http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0"/>
